@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VimWorkshop.Kata.Tests", "VimWorkshop.Kata.Tests\VimWorkshop.Kata.Tests.csproj", "{18992E95-FD73-450E-A045-66818AF5DEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VimWorkshop.Kata", "VimWorkshop.Kata\VimWorkshop.Kata.csproj", "{50FE32EF-8BBC-4EB2-B27C-D75AFFE91D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18992E95-FD73-450E-A045-66818AF5DEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18992E95-FD73-450E-A045-66818AF5DEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18992E95-FD73-450E-A045-66818AF5DEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18992E95-FD73-450E-A045-66818AF5DEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FE32EF-8BBC-4EB2-B27C-D75AFFE91D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FE32EF-8BBC-4EB2-B27C-D75AFFE91D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FE32EF-8BBC-4EB2-B27C-D75AFFE91D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FE32EF-8BBC-4EB2-B27C-D75AFFE91D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
